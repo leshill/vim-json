@@ -1,7 +1,7 @@
 Syntax highlighting for JSON in Vim
 -----------------------------------
 
-Pathogen-friendly packaging of `vim-json`[^1] originally written by 
+Pathogen-friendly packaging of `vim-json` <sup>[1](#source)</sup> originally written by 
 Jeroen Ruigrok van der Werven.
 
 Install
@@ -18,5 +18,5 @@ Maintainer
 
 Les Hill [@leshill](https://twitter.com/leshill)
 
-
-[^1]: [Original script](http://www.vim.org/scripts/script.php?script_id=1945)
+#### Source
+Original script [here](http://www.vim.org/scripts/script.php?script_id=1945).
